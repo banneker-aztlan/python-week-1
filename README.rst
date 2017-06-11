@@ -11,25 +11,24 @@ Day 1 - Introduction to Python usage
 - ipython
 - Data types and code structures
 - control flow, exceptions, loops
-- Python 2 vs. Python 3
-- PEP8
+- strings and string formatting
 
 
 Day 2 - Structures and Patterns
 -------------------------------
 - Classes, subclassing
 - Modules, packages,
+- PEP8
 - numpy arrays, comprehensions, broadcasting
 
 
-Day 3
------
+Day 3 - Input / Output
+----------------------
+- Parsing Command Line Arguments (`argparse`), and prompt user input (`input`)
+- IO: csv, json, hdf5 files
+
+
+Day 4 - Plotting
+----------------
 - Jupyter notebook
 - matplotlib
-
-
-Day 4
------
-
-- Processing Command Line Arguments (`argparse`)
-- IO
