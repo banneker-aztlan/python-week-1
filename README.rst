@@ -19,7 +19,7 @@ Day 2 - Structures and Patterns
 -------------------------------
 - Classes, subclassing
 - Modules, packages,
-- numpy arrays
+- numpy arrays, comprehensions, broadcasting
 
 
 Day 3
