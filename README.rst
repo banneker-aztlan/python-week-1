@@ -8,14 +8,16 @@ Taught by: Luke Zoltan Kelley, LKelley@cfa.harvard.edu
 
 Day 1 - Introduction to Python usage
 ------------------------------------
-- ipython
+- python features and ideology
 - Data types and code structures
 - control flow, exceptions, loops
 - strings and string formatting
+- ipython
 
 
 Day 2 - Structures and Patterns
 -------------------------------
+- Data types: collections
 - Classes, subclassing
 - Modules, packages,
 - PEP8
